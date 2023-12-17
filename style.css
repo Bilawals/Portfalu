@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color: #e7e7e7;
+}
+.nav-link{
+    font-weight: bold;
+    color: black;
+}
+.navbar-nav{
+    padding-right: 50px;
+}
+.navbar-head{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding-left: 50px;
+}
+
+@media screen and (max-width: 390px) {
+    .navbar{
+        background-color: rgb(25, 25, 131);
+    }
+    .nav-link{
+        font-weight: bold;
+        color: white;
+    }
+    .navbar-nav{
+        padding-right: 0;
+    }
+    .navbar-head{
+        font-size: 20px;
+        font-weight: bold;
+        padding-left: 0;
+        color: white;
+    }
+}
+/* ////////////////////////////////////portfalu////////////////////////// */
+.img{
+    width: 500px;
+    height: 500px;
+    background-image: url(img/bilawal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    margin-top: 13%;
+    margin-left: 18%;
+    transition: all 2s ease-out;
+}
+.img:hover{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.box{
+    width: 50%;
+    height: 550px;
+    margin-left: 50%;
+    margin-top: -550px;
+    padding-left: 20px;
+}
+.box h1{
+    font-weight: bold;
+    font-size: 80px;
+    padding-top: 100px;
+}
+.box h4{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.box1{
+    display: flex;
+    justify-content: baseline;
+    align-items: baseline;
+    margin-top: -200px;
+    margin-left: 50%;
+}
+.box1 a{
+    text-decoration: none;
+    color: black;
+}
+.b1{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: rgb(252, 207, 6);
+    transition: all 2s ease-out;
+    text-align: center;
+}
+.b1 p{
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 60px;
+}
+.b1:hover{
+    color: black;
+    background-color: white;
+}
+.b2{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left: 20px;
+    background-color: red;
+    transition: all 2s ease-out;
+    text-align: center;
+}
+.b2 p{
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 60px;
+}
+.b2:hover{
+    color: black;
+    background-color: white;
+}
+.b3{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left: 20px;
+    background-color: #66e7e7;
+    transition: all 2s ease-out;
+    text-align: center;
+}
+.b3 p{
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 60px;
+}
+.b3:hover{
+    color: black;
+    background-color: white;
+}
+
+
+.row{
+    width: 100%;
+    height: 200px;
+    margin-top: 250px;
+    border-top: 1px solid black;
+}
+@media screen and (max-width: 390px) {
+    .img{
+        width: 300px;
+        height: 300px;
+        background-image: url(img/bilawal.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 50%;
+        margin-top: 110%;
+        margin-left: 40px;
+    }
+    .box{
+        width: 80%;
+        height: 550px;
+        margin-left: 2%;
+        margin-top: -800px;
+        padding-left: 10px;
+        text-align: justify;
+    }
+    .box h1{
+        font-weight: bold;
+        font-size: 80px;
+        padding-top: 90px;
+    }
+    .box h4{
+        font-size: 20px;
+        font-weight: bold;
+        padding-top: 15px;
+    }
+    .box1{
+        display: flex;
+        justify-content: baseline;
+        align-items: baseline;
+        margin-left: 20px;
+        margin-top: -180px;
+    }
+    .b1{
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color: rgb(252, 207, 6);
+        transition: all 2s ease-out;
+        text-align: center;
+    }
+    .b1 p{
+        font-weight: bold;
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    .b1:hover{
+        background-color: white;
+    }
+    .b2{
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        border-radius: 50%;
+        margin-left: 20px;
+        background-color: red;
+        transition: all 2s ease-out;
+        text-align: center;
+    }
+    .b2 p{
+        font-weight: bold;
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    .b2:hover{
+        background-color: white;
+    }
+    .b3{
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        border-radius: 50%;
+        margin-left: 20px;
+        background-color: #66e7e7;
+        transition: all 2s ease-out;
+        text-align: center;
+    }
+    .b3 p{
+        font-weight: bold;
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    .b3:hover{
+        background-color: white;
+    }
+    .row{
+        width: 100%;
+        height: 200px;
+        margin-top: 350px;
+        border-top: 1px solid black;
+        padding-top: 30px;
+        padding-bottom: 100px;
+    }
+    }
