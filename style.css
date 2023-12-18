@@ -926,7 +926,7 @@
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
-            margin-top: 60%;
+            margin-top: 65%;
             margin-left: 40px;
         }
         .box{
@@ -1132,7 +1132,7 @@
             padding-left: 40px;
         }
     }
-    @media screen and (max-width: 540px) {
+    @media screen and (max-width: 500px) {
         .navbar{
             background-color: rgb(25, 25, 131);
         }
@@ -1156,7 +1156,7 @@
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
-            margin-top: 80%;
+            margin-top: 85%;
             margin-left: 40px;
         }
         .box{
