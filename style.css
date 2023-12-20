@@ -132,7 +132,7 @@
         .img{
             width: 500px;
             height: 500px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpeg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -240,7 +240,7 @@
         .img{
             width: 500px;
             height: 500px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -348,7 +348,7 @@
         .img{
             width: 500px;
             height: 500px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -456,12 +456,12 @@
         .img{
             width: 500px;
             height: 500px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpeg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
             margin-top: 13%;
-            margin-left: 5%;
+            margin-left: 3%;
             transition: all 2s ease-out;
         }
         .img:hover{
@@ -476,7 +476,7 @@
         }
         .box h1{
             font-weight: bold;
-            font-size: 80px;
+            font-size: 70px;
             padding-top: 100px;
         }
         .box h4{
@@ -580,7 +580,7 @@
         .img{
             width: 500px;
             height: 500px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -695,7 +695,7 @@
         .img{
             width: 500px;
             height: 500px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -810,7 +810,7 @@
         .img{
             width: 300px;
             height: 300px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpeg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -925,7 +925,7 @@
         .img{
             width: 300px;
             height: 300px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpeg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -1040,7 +1040,7 @@
         .img{
             width: 300px;
             height: 300px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpeg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -1057,7 +1057,7 @@
         }
         .box h1{
             font-weight: bold;
-            font-size: 80px;
+            font-size: 60px;
             padding-top: 90px;
         }
         .box h4{
@@ -1155,7 +1155,7 @@
         .img{
             width: 300px;
             height: 300px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -1172,7 +1172,7 @@
         }
         .box h1{
             font-weight: bold;
-            font-size: 80px;
+            font-size: 50px;
             padding-top: 90px;
         }
         .box h4{
@@ -1269,7 +1269,7 @@
         .img{
             width: 300px;
             height: 300px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpeg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -1286,7 +1286,7 @@
         }
         .box h1{
             font-weight: bold;
-            font-size: 80px;
+            font-size: 50px;
             padding-top: 90px;
         }
         .box h4{
@@ -1383,7 +1383,7 @@
         .img{
             width: 300px;
             height: 300px;
-            background-image: url(img/bilawal.jpg);
+            background-image: url(img/bilawa1.jpeg);
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50%;
@@ -1394,13 +1394,13 @@
             width: 80%;
             height: 550px;
             margin-left: 2%;
-            margin-top: -800px;
+            margin-top: -780px;
             padding-left: 10px;
             text-align: justify;
         }
         .box h1{
             font-weight: bold;
-            font-size: 80px;
+            font-size: 50px;
             padding-top: 90px;
         }
         .box h4{
@@ -1413,7 +1413,7 @@
             justify-content: baseline;
             align-items: baseline;
             margin-left: 20px;
-            margin-top: -180px;
+            margin-top: -220px;
         }
         .b1{
             width: 100px;
