@@ -125,6 +125,9 @@
     margin-top: 250px;
     border-top: 1px solid black;
 }
+.row a{
+    color: black;
+}
     @media screen and (max-width: 1550px) {
         .img{
             width: 500px;
